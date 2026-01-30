@@ -1,17 +1,18 @@
 Experiment–1
-Title 
+
+Title :
 Introduction to Python Programming and Installation of Jupyter Notebook Using Anaconda
  
-Aim
+Aim:
 To study the basics of Python programming language, understand the Python execution environment, install Python and Jupyter Notebook using Anaconda distribution, and explore various Python IDEs including Google Colab.
  
-Objectives
+Objectives:
 •	To understand Python features and applications
 •	To install Python and Jupyter Notebook using Anaconda
 •	To explore Python IDEs and environments
 •	To execute basic Python programs using Jupyter Notebook and Google Colab
  
-Theory
+Theory:
 1. Introduction to Python
 Python is a high-level, interpreted, and object-oriented programming language widely used for data analysis, machine learning, automation, and scientific computing.
  
@@ -24,7 +25,8 @@ Advantages of Anaconda:
 •	Suitable for beginners and professionals
  
 Why python?
-Features 
+
+Features :
 Simple and easy to learn 
 Freewarw and Open source 
 Interpreted 
